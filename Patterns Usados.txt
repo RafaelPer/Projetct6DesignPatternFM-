@@ -1,0 +1,9 @@
+Builder (beans {Autor} / {Livro} / {Categoria})
+Factory Method ({Conexão de Databases})
+Prototype ({AluguelLivroDao})
+-- Flyweight --
+Observe ({Aviso de Data de Devolução})
+-- Decorator (Livro) --
+-- Command --
+Abstract Factory ({Exportação de Arquvios JSON, CSV})
+Facade ({Exportação de Arquvios JSON, CSV})

@@ -1,0 +1,1 @@
+Trabalho de padrões de projetos -> Intuito de desenvolver uma API para sistema de aluguel de livros usando os padrões de projeto no arquivo patterns usados, foi usado java puro e jersey para webservice rest.
